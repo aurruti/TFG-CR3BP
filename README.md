@@ -6,13 +6,14 @@ The Circular-Restricted Three-Body Problem (CR3BP) describes the motion of a sma
 This repository includes de full codebase required for the optmization of such transfer orbits; and is ultimately part of the Bachelor's Final Thesis on the topic, directed by Adrià Rovira (gAGE - UPC) and Ariadna Farrés (NASA Goddard Space Flight Center). The thesis ultimately represented the culmitation of the studies of the B.Sc. in Aerospace Engineering at Universitat Politècnica de Catalunya (UPC); and it is also available as an academic publication at: http://hdl.handle.net/2117/384831
 
 
-Full documentation on the code usage can be found in Appendix A of the thesis (PDF). 
+Full documentation on the code usage can be found in Appendix A of the thesis (PDF); and, to a lesser extent in the GitHub wiki ( https://github.com/aurruti/TFG-CR3BP/wiki )
 
 
 
 Study and optimization of transfer orbits to the L4 and L5 Lagrange Points of the Earth-Sun system © 2023 by Aitor Urruticoechea is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Attribution-NonCommercial-ShareAlike 4.0 International You are free to:
+Attribution-NonCommercial-ShareAlike 4.0 International 
+You are free to:
 - Share — copy and redistribute the material in any medium or format.
 - Adapt — remix, transform, and build upon the material.
 
